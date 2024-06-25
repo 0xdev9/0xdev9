@@ -1,5 +1,5 @@
 0xdev9 Page :*
 
-Python/HTML
+Python/HTML et autres mais flemme (description de qualite)
 
 
